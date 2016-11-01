@@ -1,6 +1,6 @@
 <?php
 
-namespace mimicreative\respond;
+namespace mimicreative\assets;
 
 class RespondAsset extends \yii\web\AssetBundle {
   
