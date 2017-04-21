@@ -17,7 +17,7 @@ class RespondAsset extends \yii\web\AssetBundle {
   ];
   
   public $jsOptions = [
-    'condition' => 'lte IE9',
+    'condition' => 'lte IE10',
     'position' => \yii\web\View::POS_HEAD
   ];
   
